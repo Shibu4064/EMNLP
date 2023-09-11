@@ -15,7 +15,7 @@
 * For training models on both train+ validation data, run 'applying transfer learning from BD-SHS to VITD(train + validation) Encoder layers non freeze.ipynb' with path changes as needed.
 * Finally, for generating predicted csv 'csv generator from saved model.ipynb'with path changes as needed.
 
-<b>Work Flow of System Description Part 2</b>
+<b>Work Flow of System Description Part 3</b>
 * Go to Folder 'all model prediction val test csv + ensemble notebooks' containing all predicted csv files. The 'sub' string indicates csvs trained on both training + validation sets.
 * For stacking, run 'stacking.ipynb'.
 * For weighted ensemble, run 'weighted_ensemble.ipynb'.
