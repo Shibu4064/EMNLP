@@ -9,10 +9,10 @@
 
 <b>Work Flow of System Description Part 2</b>
 * Firstly, for transfer learning approach of XLM-RoBERTa, multiingual-BERT, sagorBERT please go to the folders 'submission xlm-roberta transfer', 'submission mbert' and 'series of tasks 1 sagorsarker' respectively.
-* Secondly, run 'training on BD-SHS.ipynb' with path changes as needed.
-* Thirdy, run 'applying transfer learning from BD-HS to VITD classification head non freeze.ipynb' with path changes as needed. For sagorBert, also run 'part 2 applying transfer learning from BD-HS to VITD classification head non freeze.ipynb' with path changes as needed.
-* Fourtly, run 'applying transfer learning from BD-SHS to VITD Encoder layers non freeze.ipynb' with path changes as needed.
-* For training models on both train+ validation data, run 'applying transfer learning from BD-SHS to VITD(train + validation) Encoder layers non freeze.ipynb' with path changes as needed.
+* Secondly, run 'training on BD-SHS.ipynb' with path changes as needed (This contains the code of section 3.4.1).
+* Thirdy, for section 3.4.2 first training session, run 'applying transfer learning from BD-HS to VITD classification head non freeze.ipynb' with path changes as needed. For sagorBert, also run 'part 2 applying transfer learning from BD-HS to VITD classification head non freeze.ipynb' with path changes as needed.
+* Fourtly, for section 3.4.2 second training session, run 'applying transfer learning from BD-SHS to VITD Encoder layers non freeze.ipynb' with path changes as needed.
+* For training models on both train+ validation data, for section TL models-2, run 'applying transfer learning from BD-SHS to VITD(train + validation) Encoder layers non freeze.ipynb' with path changes as needed.
 * Finally, for generating predicted csv 'csv generator from saved model.ipynb'with path changes as needed.
 
 <b>Work Flow of System Description Part 3</b>
